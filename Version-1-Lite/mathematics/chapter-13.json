@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "subject": "mathematics",
+    "chapter_number": 13,
+    "chapter_name": "iemh1a1",
+    "source_file": "iemh1a1.pdf",
+    "class": "6"
+  },
+  "content": {
+    "full_text": "\n--- Page 1 ---\nPROOFS  IN MATHEMA TICS 167\nAPPENDIX 1\nPROOFS IN MA THEMA TICS\nA1.1 Introduction\nSuppose your family owns a plot of land and\nthere is no fencing around it. Your neighbour\ndecides one day to fence of f his land. After\nhe has fenced his land, you discover that a\npart of your family’ s land has been enclosed\nby his fence. How will you prove to your\nneighbour that he has tried to encroach on\nyour land? Your first step may be to seek the\nhelp of the village elders to sort out the\ndifference in boundaries. But, suppose opinion\nis divided among the elders. Some feel you are right and others feel your neighbour is\nright. What can you do? Your only option is to find a way of establishing your claim for\nthe boundaries of your land that is acceptable to all. For example, a government\napproved survey map of your village can be used, if necessary in a court of law , to\nprove (claim) that you are correct and your neighbour is wrong.\nLet us look at another situation. Suppose your mother has paid the electricity bill\nof your house for the month of August, 2005. The bill for September , 2005, however ,\nclaims that the bill for August has not been paid. How will you disprove the claim\nmade by the electricity department? You will have to produce a receipt proving that\nyour August bill has been paid.\nYou have just seen some examples that show  that in our daily life we are often\ncalled upon to prove that a certain statement or claim is true or false.  However , we\nalso accept many statements without bothering to prove them. But, in mathematics\nwe only accept a statement as true or false (except for some axioms) if it has been\nproved to be so, according to the logic of mathematics.\nReprint 2025-26\n\n--- Page 2 ---\n168 MATHEMA TICS\nIn fact, proofs in mathematics have been in existence for thousands of years, and\nthey are central to any branch of mathematics. The first known proof  is believed to\nhave been given by the Greek philosopher and mathematician Thales.  While\nmathematics  was central to many ancient civilisations like Mesopotamia, Egypt, China\nand India, there is no clear evidence that they used proofs the way we do today .\nIn this chapter , we will look at what a statement is, what kind of reasoning is\ninvolved in mathematics, and what a mathematical proof consists of.\nA1.2 Mathematically Acceptable Statements\nIn this section, we shall try to explain the meaning of a mathematically acceptable\nstatement. A ‘statement’  is a sentence which is not an order or an exclamatory sentence.\nAnd, of course, a statement is not a question! For example,\n“What is the colour of your hair?”  is not a statement, it is a question.\n“Please go and bring me some water .”  is a request or an order , not a statement.\n“What a marvellous sunset!” is an exclamatory remark, not a statement.\nHowever , “The colour of your hair is black” is a statement.\nIn general, statements can be one of the following:\n•always true\n•always false\n•ambiguous\nThe word ‘ambiguous’ needs some explanation.  There are two situations which\nmake a statement ambiguous. The first situation is when we cannot decide if the\nstatement is always true or always false. For example, “T omorrow is Thursday” is\nambiguous, since enough of a context is not given to us to decide if the statement is\ntrue or false.\nThe second situation leading to ambiguity is when the statement is subjective, that\nis, it is true for some people and not true for others.  For example, “Dogs are intelligent”\nis ambiguous because some people believe this is true and others do not.\nExample 1 :  State whether the following statements are always true, always false or\nambiguous. Justify your answers.\n(i) There are 8 days in a week.\n(ii) It is raining here.\n(iii) The sun sets in the west.\nReprint 2025-26\n\n--- Page 3 ---\nPROOFS  IN MATHEMA TICS 169\n(iv) Gauri is a kind girl.\n(v) The product of two odd integers is even.\n(vi) The product of two even natural numbers is even.\nSolution :\n(i) This statement is always false, since there are 7 days in a week.\n(ii) This statement is ambiguous, since it is not clear where ‘here’ is.\n(iii) This statement is always true. The sun sets in the west no matter where we live.\n(iv) This statement is ambiguous, since it is subjective–Gauri may be kind to some\nand not to others.\n(v) This statement is always false. The product of two odd integers is always odd.\n(vi) This statement is always true. However , to justify that it is true we need to do\nsome work. It will be proved in Section A1.4.\nAs mentioned before, in our daily life, we are not so careful about the validity of\nstatements. For example, suppose your friend tells you that in July it rains everyday in\nManantavadi, Kerala. In all probability , you will believe her , even though it may not\nhave rained for a day or two in July . Unless you are a lawyer , you will not ar gue with\nher!\nAs another example, consider statements we\noften make to each other like “it is very hot today”.\nWe easily accept such statements beca",
+    "total_characters": 34174,
+    "preview": "\n--- Page 1 ---\nPROOFS  IN MATHEMA TICS 167\nAPPENDIX 1\nPROOFS IN MA THEMA TICS\nA1.1 Introduction\nSuppose your family owns a plot of land and\nthere is no fencing around it. Your neighbour\ndecides one day to fence of f his land. After\nhe has fenced his land, you discover that a\npart of your family’ s land has been enclosed\nby his fence. How will you prove to your\nneighbour that he has tried to encroach on\nyour land? Your first step may be to seek the\nhelp of the village elders to sort out the\ndiff"
+  },
+  "keywords": [
+    "Reprint",
+    "Chapter",
+    "However",
+    "Example",
+    "Theor",
+    "Euclid",
+    "Statement",
+    "Theorem",
+    "There",
+    "Solution",
+    "Therefore",
+    "Section",
+    "Suppose",
+    "State",
+    "Similarly",
+    "Consider",
+    "Proof",
+    "Prove",
+    "August",
+    "September"
+  ]
+}

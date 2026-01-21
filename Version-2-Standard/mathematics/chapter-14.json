@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "subject": "mathematics",
+    "chapter_number": 14,
+    "chapter_name": "iemh1a2",
+    "source_file": "iemh1a2.pdf",
+    "class": "6"
+  },
+  "content": {
+    "full_text": "\n--- Page 1 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 187\nAPPENDIX 2\nINTRODUCTION TO MA THEMA TICAL  MODELLING\nA2.1 Introduction\nRight from your earlier classes, you have been solving problems related to the\nreal-world around you. For example, you have solved problems in simple interest using\nthe formula for finding it.  The formula (or equation) is a relation between the interest\nand the other three quantities that are related to it, the principal, the rate of interest and\nthe period. This formula is an example of a mathematical model . A mathematical\nmodel is a mathematical relation that describes some real-life situation.\nMathematical models are used to solve many real-life situations like:\n•launching a satellite.\n•predicting the arrival of the monsoon.\n•controlling pollution due to vehicles.\n•reducing traffic jams in big cities.\nIn this chapter , we will introduce you to the process of constructing mathematical\nmodels, which is called mathematical modelling . In mathematical modelling, we\ntake a real-world problem and write it as an equivalent mathematical problem. We\nthen solve the mathematical problem, and interpret its solution in terms of the\nreal-world problem. After this we see to what extent the solution is valid in the context\nof the real-world problem. So, the stages involved in mathematical modelling are\nformulation, solution, interpretation and validation.\nWe will start by looking at the process you undertake when solving word problems,\nin Section A2.2.  Here, we will discuss some word problems that are similar to the\nones you have solved in your earlier classes. We will see later that the steps that are\nused for solving word problems are some of those used in mathematical modelling\nalso.\nReprint 2025-26\n\n--- Page 2 ---\n188 MATHEMA TICS\nIn the next section, that is Section A2.3, we will discuss some simple models.\nIn Section A2.4, we will discuss the overall process of modelling, its advantages\nand some of its limitations.\nA2.2 Review of  Word Pr oblems\nIn this section, we will discuss some word problems that are similar to the ones that\nyou have solved in your earlier classes.  Let us start with a problem on direct variation.\nExample 1 :  I travelled 432 kilometres on 48 litres of petrol in my car . I have to go by\nmy car to a place which is 180 km away . How much petrol do I need?\nSolution :  We will list the steps involved in solving the problem.\nStep 1 :  Formulation :  You know that farther we travel, the more petrol we\nrequire, that is, the amount of petrol we need varies directly with the distance we\ntravel.\nPetrol needed for travelling 432 km = 48 litres\nPetrol needed for travelling 180 km = ?\nMathematical Description : Let\nx =distance I travel\ny =petrol I need\ny varies directly with x.\nSo, y =kx, where k is a constant.\nI can travel 432 kilometres with 48 litres of petrol.\nSo, y =48, x = 432.\nTherefore, k =48 1\n432 9y\nx= = .\nSince y =kx,\ntherefore, y =1\n9x (1)\nEquation or Formula (1) describes the relationship between the petrol needed and\ndistance travelled.\nStep 2 :  Solution : We want to find the petrol we need to travel 180 kilometres;\nso, we have to find the value of y when x = 180.  Putting x = 180 in  (1), we have\nReprint 2025-26\n\n--- Page 3 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 189\ny =180209= .\nStep 3 :  Interpretation : Since y = 20, we need 20 litres of petrol to travel\n180 kilometres.\nDid it occur to you that you may not be able to use the formula (1) in all situations?\nFor example, suppose the 432 kilometres route is through mountains and the 180\nkilometres route is through flat plains. The car will use up petrol at a faster rate in the\nfirst route, so we cannot use the same rate for the 180 kilometres route, where the\npetrol will be used up at a slower rate. So the formula works if all such conditions that\naffect the rate at which petrol is used are the same in both the trips. Or , if there is a\ndifference in conditions, the effect of the difference on the amount of petrol needed\nfor the car should be very small. The petrol used will vary directly with the distance\ntravelled only in such a situation. We assumed this while solving the problem.\nExample 2 :  Suppose Sudhir has invested ` 15,000 at 8% simple interest per year .\nWith the return from the investment, he wants to buy a washing machine that costs\n` 19,000. For what period should he invest ` 15,000 so that he has enough money to\nbuy a washing machine?\nSolution :  Step 1 :  Formulation of the pr oblem : Here, we know the principal and\nthe rate of interest. The interest is the amount Sudhir needs in addition to 15,000 to buy\nthe washing machine.  We have to find the number of years.\nMathematical Description :  The formula for simple interest is I = P\n100nr,\nwhere P =Principal,\nn =Number of years,\nr % = Rate of interest\nI =Interest earned\nHere, the principal = ` 15,000\nThe money required by Sudhir for buying a washing machine = ` 19,000\nSo, the interest to be earned =` (19,000 – 15,000)\n=` 4,000\nThe number",
+    "total_characters": 31018,
+    "preview": "\n--- Page 1 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 187\nAPPENDIX 2\nINTRODUCTION TO MA THEMA TICAL  MODELLING\nA2.1 Introduction\nRight from your earlier classes, you have been solving problems related to the\nreal-world around you. For example, you have solved problems in simple interest using\nthe formula for finding it.  The formula (or equation) is a relation between the interest\nand the other three quantities that are related to it, the principal, the rate of interest and\nthe period. This "
+  },
+  "keywords": [
+    "Reprint",
+    "Solution",
+    "Table",
+    "Since",
+    "Mathematical",
+    "Formulation",
+    "Equation",
+    "Example",
+    "Description",
+    "Suppose",
+    "Interpr",
+    "Enrolment",
+    "Section",
+    "Formula",
+    "Sudhir",
+    "Number",
+    "Solving",
+    "Interpretation",
+    "Finding",
+    "These"
+  ],
+  "images": [
+    {
+      "filename": "page1_img1.png",
+      "page": 1
+    },
+    {
+      "filename": "page1_img2.png",
+      "page": 1
+    },
+    {
+      "filename": "page2_img1.png",
+      "page": 2
+    },
+    {
+      "filename": "page2_img2.png",
+      "page": 2
+    },
+    {
+      "filename": "page3_img1.png",
+      "page": 3
+    }
+  ],
+  "image_count": 5
+}

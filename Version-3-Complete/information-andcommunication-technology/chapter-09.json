@@ -1,0 +1,2503 @@
+{
+  "metadata": {
+    "subject": "information-andcommunication-technology",
+    "chapter_number": 9,
+    "chapter_name": "iict1ps",
+    "source_file": "iict1ps.pdf",
+    "class": "6"
+  },
+  "content": {
+    "full_text": "\n--- Page 1 ---\nInformation and\nCommunication Technology\nTextbook for Class IX\nPrelims.indd   1 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 2 ---\nFirst Edition\nFebruary 2019  Magha 1940\nReprinted\nJuly 2020  Shravana 1942  \nMarch 2024 Chaitra 1946 \nJanuary 2025 Pausha 1946  \nPD 10T BS\n© National Council of Educational \nResearch and Training, 2019\n 125.00\nPrinted on 80 GSM paper with NCERT \nwatermark\nPublished at the Publication Division \nby the Secretary, National Council of Educational Research and Training,  \nSri Aurobindo Marg, New  Delhi 110 016 and printed at Chandu Press, 469, Patparganj Industrial Estate, Delhi–110092Publication Team\nHead, Publication  : M.V. Srinivasan \nDivision\nChief Editor  : Bijnan Sutar\nChief Production  : Jahan Lal \nOfficer (In charge)\nChief Business Manager  : Amitabh Kumar\nAssistant Production Officer  : Prakash Veer Singh \n \nCover and Layout\nGraphics Team, CIETALL RIGHTS RESERVED\n No part of this publication may be reproduced, stored in a \nretrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.\n\tThis book is sold subject to the condition that it shall not, by way of  trade,  be lent,  re-sold, hired out or otherwise disposed off without the publisher’s consent, in any form of binding or cover other than that in which it is published.\n\n The correct price of this publication is the price printed on \nthis page. Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.\nOFFICES OF THE PUBLICATION  \nDIVISION , NCERT\nNCERT CampusSri Aurobindo Marg\nNew  Delhi 110 016  Phone :  011-26562708\n108, 100 Feet Road Hosdakere Halli ExtensionBanashankari III Stage\nBengaluru 560 085  Phone : 080-26725740\nNavjivan Trust BuildingP.O. Navjivan \nAhmedabad 380 014  Phone :  079-27541446\nCWC CampusOpp. Dhankal Bus StopPanihati\nKolkata \n700 114  Phone :  033-25530454\nCWC Complex  \nMaligaon   \nGuwahati 781 021  Phone :  0361-2674869977 – INFORMATION COMMUNICATION TECHNOLOGY\nTextbook in Information and Communication Technology (ICT) for Class IX. ISBN 978-93-5292-118-8\nPrelims.indd   2 28-Jan-25   5:01:31 PM\nReprint 2025-26\n\n--- Page 3 ---\nForeword\nInformation and Communication Technology (ICT) has influenced our \nlife in a great way. ICT has literally made inroads into almost all major \ndisciplines across science, social sciences, languages, arts and medicine, etc. It has the potential to create newer avenues for employment, help us communicate and collaborate better, learn, and understand the nature and phenomena as well as improve our skills and standards of living. Policymakers across the globe today agree with the potential of ICT in the teaching-learning process and recommend ICT to be a part of school and teacher education curriculum.\nRapid advancements in Information and Communication Technology \n(ICT) have created unprecedented opportunities in the field of education and school education in particular. Mastering ICT skills and utilising ICT is of utmost importance for teachers and learners for creating a new learning culture.\nICT is stated to have motivational power. It enables students to enjoy \nlearning as an active participant, such as by bringing the outside world \ninto the classroom or by enhancing one -to-one, one-to-many and many-to-\nmany interaction, among peers, teachers, experts and others. Furthermore, ICT has also helped the students in learning new skills, such as searching and locating appropriate information, making informed choices, learning to recognise the authenticity of sources and collaborating with  \nother learners.\nToday, we are living in an interconnected world where ICT-based \napplications influence the way we learn, communicate, commute or even socialise. Developments in the twenty‑first century skills, such as communication, creative and critical thinking, problem solving, collaborative learning, etc., are essential at the school level. ICT plays a key role in developing these skills.\nThis book aims to introduce the world of ICT and its applications. It will \nhelp students to learn, prepare, present and communicate their thoughts, ideas and content through various digital formats, i.e., text, image, audio and video, etc.\nThe book will also help students to understand the potential of Internet \nas well as the safety and security issues related to it, and the ways in which one can safeguard themselves against malicious activities and incidents happening in the cyber world. \nPrelims.indd   3 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 4 ---\n(iv) As an organisation committed to systemic reform and continuous \nimprovement in the quality of its products, NCERT welcomes comments \nand suggestions from all the stakeholders, which will enable us to revise the content of the textbook. \n HrusHikes H senapaty\n Director\nNew Delhi  National Council of Educational \nMarch, 2018  Research and Training\nPrelims.indd   4 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 5 ---\nPreFace\nIt is well accepted that Information and Communication Technology (ICT) \nhas an immense potential to impact learning. Also understanding the \nbasics of ICT and mastering the skills is essential and must be regarded as a core part of education, along with reading, writing and numeracy. The recent efforts of the Government of India (GoI) seeks to deepen the use of ICT in almost every sphere of life. The Digital India Campaign (2015) strives to transform India into a digitally empowered society and knowledge economy by focussing on three vision areas — Digital Infrastructure as Core Utility to Every Citizen, e-Governance and Service on Demand and Digital Literacy and Empowerment of Citizens. The three cardinal principals of the draft New National Education Policy (2016) viz., access, equity and quality could be served well by harnessing the huge potential of ICT. The National Curriculum Framework (2005) recommends to recognise that given the space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. The curricula for ICT in education lays an emphasis on empowering the students in a way so that they may get an access to a variety of resources, learn to critically appraise information and resources, and make safe, productive, ethical and legal use of resources.\nThe Present Class IX Textbook of ICT takes into account goals of the \nNew Education Policy, the recommendations of National Curriculum Framework (2005), the Curricula for ICT in Education and visions of Digital India Campaign (2015). This textbook is an attempt to foster creativity, problem solving and to introduce students to the world of Information and Communication Technology (ICT), which may also shape their future career pursuits.\nThe textbook contains eight chapters under four learning strands \nviz. 'Connecting with the World', 'Connecting with Each Other', 'Creating with ICT' and 'Interacting with ICT'. It has been carefully designed with meticulous efforts of the Textbook Development Team comprising School teachers, subject experts, academicians and technical experts from government, non-government and private entities. Some of the members worked at the advisory level while others contributed towards the actual development activity as core team members and members of the textbook development committee. It is hoped that the students will appreciate the immense potential of ICT and will be encouraged to explore and learn further. The textbook writing team has tried to bring a conceptual \nPrelims.indd   5 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 6 ---\n(vi)coherence. The pedagogy and the use of easily understandable language \nare at the core of the efforts without sacrificing the technical aspects of  \nthe subject.\nThis book has some features which are earnestly expected to enhance \nits usefulness for the students and teachers. The book contains nine Quick Response (QR) codes linked to relevant digital resources (text, audio, video, and interactive content, etc.). The first QR code is to access the complete digital textbook. The subsequent QR codes will help to access the relevant digital resources linked to each chapter. There are some questions which require critical thinking which would make students think about  \nreal-time applications of ICT. The textbook also includes a large number of examples in order to clarify the concept and to relate these concepts to \neveryday real -life situations. The inside box in the chapters are introduced \nto highlight the special features of the concepts covered, which require additional attention of the students.\nCompletion this book has only been possible due to the continuous \nsupport of many professionals and experts. We express our gratitude to Director, NCERT, for entrusting us with the task of developing this textbook as part of a national effort for improving school education.\nThe draft received excellent academic inputs from students, experts \nand other practitioners who sincerely suggested improvement during the development of this book. We are thankful to all those who provided these inputs to CIET, NCERT. We are also thankful to the all the members of development and review workshops, language editors and to team DIKSHA for rendering technical support for developing QR codes.\nWe welcome suggestions and comments from our valued users, \nspecially students and teachers. We wish our young readers of Class IX have an exciting and enjoyable engagement with the world of ICT.\n amarendra   BeHera\n Joint Director\n Central Institute of Educational Technology\nPrelims.indd   6 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 7 ---\nTexTbook  develoPmenT  commiTTee\nChairperson , advisory  Group\nA. P. Behera, Professor and Joint Director , Central Institute of Educational \nTechnology, NCERT\nMeMbers\nAerum Khan, Freelancer, E-210, Shaheen Bagh, Jamia Nagar, New Delhi\nAjita, Assistant Professor, DICT&TD, CIET, NCERT\nAngel Rathnabai, Assistant Professor, DICT&TD, CIET, NCERTAnu Bhatia, PGT, Computer Science, Sadhu Vaswani International School for \nGirls, Shanti Niketan, New Delhi\nChetna Khanna, Freelancer, F-40, Mansarover Garden, New DelhiDharmender Singh, PGT, Computer Science, KVS, INA Colony, New DelhiIndu Kumar, Head, DICT&TD, CIET, NCERTMeetu Singhal, PGT, Computer Science, Kendriya Vidayalaya No.3, Agra cantt., AgraMohini Arora, HOD,  Computer Science, Air Force Golden Jubilee Institute, \nSubroto Park, Delhi Cantt Sangeeta Rawal, PGT, Computer Science, Delhi Public School, Vasant Kunj, New DelhiSangita Chadha, Head, Department of Computer Science, Ambience Public \nSchool, Safdarjung Enclave, New Delhi\nSurbhi, Assistant Professor, DICT&TD, CIET, NCERTVineeta Garg, PGT, Computer Science, SRDAV Public School, Dayanand Vihar, \nNew Delhi\nM\neMber-Coordinator\nMohd. Mamur Ali, Assistant Professor, DICT&TD, CIET, NCERT\nPrelims.indd   7 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 8 ---\nacknowledgemenTs\nThe National Council of Educational Research and Training (NCERT) \ngratefully acknowledges the valuable contribution of individuals and \norganisations involved in the development of the textbook Information and \nCommunication Technology (ICT) for Class IX. \nThe Council expresses its gratitude to the syllabus developing team \nincluding Sridher Iyer, Professor, Department of Computer Science and \nEngineering, IIT Mumbai,  I. L. Narasimha Rao, Project Manager, C-DAC, \nHyderabad, Radhika B., Academic Officer (ICT), National Institute of \nOpen Schooling (NIOS), Noida, Ashish Kalsi, India Outreach Lead, Trust \n& Safety, Google India and Rejaul Karim Barbhuiya, Assistant Professor, \nDESM, NCERT.\nThe Council acknowledges the contribution of Gurumurthy Kasinathan, \nDirector , IT for Change, Bengaluru, Devraj Goel, Professor (ET),  CIET, \nNCERT, Asha Jindal, Professor (Retd), Kamlesh Mittal, Professor (Retd), M. \nP. Goel and Ramya Shriram, Teachers (Computer Science), Meridian School \nK.P.H.B., Hyderabad, Ramesh Prasad Badoni (ICT Awardee) Lecturer, \nPhysics, Government Inter College, Dehradun, Monica Nagpal, Assistant \nProfessor, CIET, NCERT, for going through the first draft of the textbook and making incisive comments on the manuscript. \nThe Council also acknowledges the reviewers — Anamika Gupta, \nAssistant Professor, Department of Computer Science, Shaheed Sukhdev College of Business Studies, Rohini, New Delhi, Harita Ahuja, Assistant \nProfessor, Department of Computer Science Acharya, Narendra Dev College, Kalkaji, New Delhi, Gurpreet Kaur, Head, Department of Computer \nScience, G.D. Goenka Public School, Vasant Kunj, Delhi and A. K. Dash, PGT\n, Computer Science  – Mother's International School, Adhchini, New \nDelhi, for evaluating and giving suggestions for the improvement of  \nthis book.\nSilima Nanda, Director (I/C), International Division, IGNOU, New Delhi \nand Anuja Krishan, Language Editor (Freelancer), New Delhi are also duly \nacknowledged for editing this textbook. \nThe Council also acknowledges the contribution of the graphics \nartists Tarkeshwar Gupta, Chandramauli Shukla, Divya Talwar, Insha Humzad Afridi, Gaurav Gupta and project staff of DICT, Ruchi Sharma and Shobit Saxena in shaping this book. The Council acknowledges the copy editing of Shilpa Mohan, Assistant Editor (Contractual). The efforts of  \nHaridarshan Lodhi, DTP Operator (Contractual), Publication Division, \nNCERT, are also acknowledged.\nPrelims.indd   8 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 9 ---\nconTenTs\nForeword iii\nPreface v\nChapter 1: Introduction to ICT 01–13\nChapter 2: Creating Textual Communication 14–38\nChapter 3: Creating Visual Communication 39–56\nChapter 4: Creating Audio -Video Communication 57–69\nChapter 5: Presenting Ideas 70–77\nChapter 6: Getting Connected: Internet 78–92\nChapter 7: Safety and Security in the Cyber World 93–101\nChapter 8: Fun with Logic 102–122\nPrelims.indd   9 28-Feb-19   3:39:54 PM\nReprint 2025-26\n\n--- Page 10 ---\nPrelims.indd   10 28-Feb-19   3:39:56 PM\nReprint 2025-26\n",
+    "total_characters": 14097,
+    "total_pages": 0
+  },
+  "images": [
+    {
+      "filename": "page1_img1.png",
+      "page": 1
+    },
+    {
+      "filename": "page1_img2.png",
+      "page": 1
+    },
+    {
+      "filename": "page1_img3.png",
+      "page": 1
+    },
+    {
+      "filename": "page2_img1.png",
+      "page": 2
+    },
+    {
+      "filename": "page2_img2.png",
+      "page": 2
+    },
+    {
+      "filename": "page3_img1.png",
+      "page": 3
+    },
+    {
+      "filename": "page3_img2.png",
+      "page": 3
+    },
+    {
+      "filename": "page4_img1.png",
+      "page": 4
+    },
+    {
+      "filename": "page4_img2.png",
+      "page": 4
+    },
+    {
+      "filename": "page5_img1.png",
+      "page": 5
+    },
+    {
+      "filename": "page5_img2.png",
+      "page": 5
+    },
+    {
+      "filename": "page6_img1.png",
+      "page": 6
+    },
+    {
+      "filename": "page6_img2.png",
+      "page": 6
+    },
+    {
+      "filename": "page7_img1.png",
+      "page": 7
+    },
+    {
+      "filename": "page7_img2.png",
+      "page": 7
+    },
+    {
+      "filename": "page8_img1.png",
+      "page": 8
+    },
+    {
+      "filename": "page8_img2.png",
+      "page": 8
+    },
+    {
+      "filename": "page9_img1.png",
+      "page": 9
+    },
+    {
+      "filename": "page9_img2.png",
+      "page": 9
+    },
+    {
+      "filename": "page10_img1.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img2.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img3.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img4.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img5.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img6.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img7.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img8.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img9.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img10.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img11.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img12.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img13.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img14.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img15.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img16.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img17.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img18.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img19.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img20.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img21.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img22.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img23.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img24.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img25.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img26.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img27.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img28.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img29.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img30.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img31.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img32.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img33.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img34.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img35.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img36.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img37.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img38.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img39.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img40.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img41.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img42.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img43.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img44.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img45.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img46.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img47.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img48.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img49.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img50.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img51.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img52.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img53.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img54.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img55.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img56.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img57.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img58.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img59.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img60.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img61.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img62.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img63.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img64.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img65.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img66.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img67.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img68.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img69.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img70.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img71.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img72.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img73.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img74.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img75.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img76.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img77.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img78.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img79.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img80.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img81.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img82.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img83.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img84.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img85.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img86.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img87.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img88.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img89.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img90.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img91.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img92.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img93.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img94.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img95.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img96.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img97.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img98.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img99.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img100.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img101.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img102.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img103.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img104.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img105.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img106.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img107.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img108.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img109.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img110.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img111.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img112.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img113.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img114.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img115.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img116.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img117.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img118.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img119.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img120.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img121.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img122.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img123.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img124.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img125.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img126.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img127.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img128.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img129.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img130.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img131.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img132.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img133.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img134.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img135.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img136.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img137.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img138.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img139.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img140.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img141.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img142.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img143.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img144.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img145.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img146.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img147.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img148.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img149.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img150.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img151.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img152.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img153.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img154.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img155.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img156.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img157.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img158.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img159.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img160.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img161.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img162.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img163.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img164.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img165.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img166.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img167.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img168.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img169.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img170.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img171.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img172.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img173.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img174.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img175.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img176.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img177.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img178.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img179.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img180.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img181.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img182.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img183.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img184.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img185.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img186.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img187.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img188.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img189.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img190.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img191.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img192.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img193.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img194.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img195.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img196.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img197.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img198.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img199.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img200.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img201.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img202.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img203.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img204.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img205.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img206.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img207.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img208.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img209.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img210.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img211.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img212.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img213.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img214.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img215.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img216.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img217.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img218.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img219.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img220.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img221.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img222.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img223.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img224.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img225.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img226.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img227.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img228.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img229.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img230.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img231.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img232.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img233.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img234.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img235.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img236.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img237.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img238.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img239.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img240.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img241.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img242.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img243.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img244.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img245.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img246.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img247.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img248.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img249.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img250.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img251.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img252.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img253.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img254.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img255.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img256.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img257.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img258.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img259.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img260.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img261.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img262.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img263.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img264.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img265.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img266.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img267.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img268.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img269.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img270.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img271.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img272.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img273.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img274.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img275.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img276.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img277.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img278.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img279.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img280.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img281.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img282.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img283.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img284.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img285.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img286.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img287.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img288.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img289.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img290.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img291.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img292.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img293.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img294.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img295.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img296.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img297.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img298.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img299.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img300.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img301.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img302.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img303.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img304.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img305.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img306.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img307.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img308.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img309.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img310.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img311.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img312.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img313.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img314.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img315.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img316.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img317.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img318.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img319.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img320.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img321.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img322.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img323.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img324.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img325.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img326.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img327.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img328.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img329.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img330.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img331.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img332.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img333.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img334.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img335.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img336.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img337.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img338.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img339.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img340.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img341.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img342.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img343.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img344.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img345.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img346.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img347.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img348.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img349.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img350.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img351.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img352.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img353.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img354.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img355.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img356.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img357.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img358.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img359.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img360.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img361.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img362.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img363.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img364.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img365.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img366.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img367.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img368.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img369.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img370.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img371.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img372.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img373.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img374.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img375.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img376.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img377.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img378.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img379.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img380.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img381.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img382.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img383.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img384.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img385.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img386.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img387.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img388.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img389.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img390.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img391.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img392.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img393.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img394.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img395.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img396.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img397.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img398.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img399.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img400.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img401.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img402.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img403.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img404.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img405.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img406.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img407.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img408.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img409.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img410.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img411.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img412.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img413.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img414.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img415.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img416.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img417.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img418.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img419.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img420.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img421.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img422.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img423.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img424.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img425.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img426.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img427.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img428.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img429.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img430.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img431.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img432.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img433.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img434.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img435.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img436.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img437.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img438.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img439.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img440.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img441.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img442.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img443.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img444.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img445.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img446.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img447.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img448.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img449.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img450.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img451.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img452.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img453.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img454.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img455.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img456.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img457.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img458.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img459.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img460.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img461.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img462.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img463.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img464.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img465.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img466.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img467.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img468.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img469.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img470.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img471.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img472.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img473.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img474.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img475.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img476.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img477.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img478.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img479.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img480.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img481.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img482.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img483.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img484.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img485.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img486.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img487.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img488.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img489.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img490.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img491.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img492.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img493.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img494.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img495.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img496.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img497.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img498.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img499.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img500.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img501.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img502.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img503.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img504.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img505.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img506.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img507.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img508.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img509.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img510.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img511.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img512.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img513.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img514.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img515.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img516.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img517.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img518.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img519.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img520.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img521.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img522.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img523.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img524.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img525.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img526.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img527.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img528.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img529.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img530.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img531.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img532.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img533.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img534.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img535.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img536.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img537.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img538.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img539.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img540.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img541.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img542.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img543.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img544.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img545.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img546.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img547.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img548.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img549.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img550.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img551.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img552.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img553.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img554.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img555.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img556.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img557.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img558.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img559.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img560.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img561.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img562.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img563.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img564.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img565.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img566.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img567.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img568.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img569.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img570.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img571.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img572.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img573.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img574.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img575.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img576.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img577.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img578.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img579.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img580.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img581.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img582.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img583.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img584.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img585.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img586.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img587.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img588.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img589.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img590.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img591.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img592.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img593.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img594.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img595.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img596.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img597.png",
+      "page": 10
+    }
+  ],
+  "image_count": 616,
+  "keywords": [
+    "Delhi",
+    "Professor",
+    "Computer",
+    "Science",
+    "Communication",
+    "Prelims",
+    "Reprint",
+    "Assistant",
+    "Technology",
+    "Council",
+    "National",
+    "School",
+    "Chapter",
+    "Information",
+    "Educational",
+    "Director",
+    "India",
+    "Class",
+    "Phone",
+    "Department"
+  ]
+}

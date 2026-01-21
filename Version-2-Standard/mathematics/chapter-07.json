@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "subject": "mathematics",
+    "chapter_number": 7,
+    "chapter_name": "iemh107",
+    "source_file": "iemh107.pdf",
+    "class": "6"
+  },
+  "content": {
+    "full_text": "\n--- Page 1 ---\nCHAPTER 7\nTRIANGLES\n7.1 Introduction\nYou have studied about triangles and their various properties in your earlier classes.\nYou know that a closed figure formed by three intersecting lines is called a triangle.\n(‘Tri’ means ‘three’). A triangle has three sides, three angles and three vertices. For\nexample, in triangle ABC, denoted as ∆ ABC (see Fig. 7.1); AB, BC, CA  are the three\nsides, ∠ A, ∠ B, ∠ C are the three angles and A, B, C are three vertices.\nIn Chapter 6, you have also studied some properties\nof triangles. In this chapter , you will study in details\nabout the congruence of triangles, rules of congruence,\nsome more properties of triangles and inequalities in\na triangle. You have already verified most of these\nproperties in earlier classes. We will now prove some\nof them.\n7.2 Congruence of Triangles\nYou must have observed that two copies of your photographs of the same size are\nidentical. Similarly , two bangles of the same size, two ATM cards issued by the same\nbank are identical. You may recall that on placing a one rupee coin on another minted\nin the same year , they cover each other completely .\nDo you remember what such figures are called? Indeed they are called  congruent\nfigures (‘congruent’ means equal in all respects or figures whose shapes and sizes\nare both the same).\nNow , draw two circles of the same radius and place one on the other . What do\nyou observe? They cover each other completely and we call them as congruent circles.Fig. 7.1\nReprint 2025-26\n\n--- Page 2 ---\n84 MATHEMA TICS\nRepeat this activity by placing one\nsquare on the other with sides of the same\nmeasure (see Fig. 7.2) or by placing two\nequilateral triangles of equal sides on each\nother . You will observe that the squares are\ncongruent to each other and so are the\nequilateral triangles.\nYou may wonder why we are studying congruence. You all must have seen the ice\ntray in your refrigerator . Observe that the moulds for making ice are all congruent.\nThe cast used for moulding in the tray also has congruent depressions (may be all are\nrectangular or all circular or all triangular). So, whenever identical objects have to be\nproduced, the concept of congruence is used in making the cast.\nSometimes, you may find it difficult to replace the refill in your pen by a new one\nand this is so when the new refill is not of the same size as the one you want to\nremove. Obviously , if the two refills are identical or congruent, the new refill fits.\nSo, you can find numerous examples where congruence of objects is applied in\ndaily life situations.\nCan you think of some more examples of congruent figures?\nNow , which of the following figures are not congruent to the square in\nFig 7.3 (i) :\nFig. 7.3\nThe large squares in Fig. 7.3 (ii) and (iii) are obviously not congruent to the one in\nFig 7.3 (i), but the square in Fig 7.3 (iv) is congruent to the one given in Fig 7.3 (i).\nLet us now discuss the congruence of two triangles.\nYou already know that two triangles are congruent if the sides and angles of one\ntriangle are equal to the corresponding sides and angles of the other triangle.Fig. 7.2\nReprint 2025-26\n\n--- Page 3 ---\nTRIANGLES 85\nNow , which of the triangles given below are congruent to triangle ABC in\nFig. 7.4 (i)?\nFig. 7.4\nCut out each of these triangles from Fig. 7.4 (ii) to (v) and turn them around and\ntry to cover ∆ ABC. Observe that triangles in Fig. 7.4 (ii), (iii) and (iv) are congruent\nto ∆ ABC while ∆ TSU of Fig 7.4 (v) is not congruent to ∆ ABC.\nIf ∆ PQR is congruent to ∆ ABC, we write ∆ PQR ≅ ∆ ABC.\nNotice that when ∆ PQR ≅ ∆ ABC, then sides of ∆ PQR fall on corresponding\nequal sides of ∆ ABC and so is the case for the angles.\nThat is, PQ covers AB, QR covers BC and RP  covers CA; ∠ P  covers ∠ A,\n∠ Q covers ∠ B and ∠ R covers ∠ C. Also, there is a one-one correspondence\nbetween the vertices. That is, P  corresponds to A, Q to B, R to C and so on which is\nwritten as\nP ↔\n A, Q ↔ B,R ↔ C\nNote that under this correspondence, ∆ PQR ≅ ∆ ABC; but it will not be correct to\nwrite ∆QRP  ≅ ∆ ABC.\nSimilarly , for Fig. 7.4 (iii),\nReprint 2025-26\n\n--- Page 4 ---\n86 MATHEMA TICS\nFD ↔ AB, DE ↔ BC and EF ↔ CA\nand F ↔ A, D ↔ Band E ↔ C\nSo, ∆ FDE ≅ ∆ ABC but writing ∆ DEF ≅ ∆ ABC is not correct.\nGive the correspondence between the triangle in Fig. 7.4 (iv) and ∆ ABC.\nSo, it is necessary to write the correspondence of vertices correctly for writing of\ncongruence of triangles in symbolic form.\nNote that in congruent triangles  corresponding parts are equal and we write\nin short ‘CPCT’  for corresponding par ts of congr uent triangles .\n7.3 Criteria for  Congruence of Triangles\nIn earlier classes, you have learnt four criteria for congruence of triangles. Let us\nrecall them.\nDraw two triangles with one side 3 cm. Are these triangles congruent? Observe\nthat they are not congruent (see Fig. 7.5).\nFig. 7.5\nNow , draw two triangles with one side 4 cm and one angle 50° (see Fig. 7.6). Are\nthey congruent?\nFig. 7.6\nReprint 2025-26\n\n--- P",
+    "total_characters": 24457,
+    "preview": "\n--- Page 1 ---\nCHAPTER 7\nTRIANGLES\n7.1 Introduction\nYou have studied about triangles and their various properties in your earlier classes.\nYou know that a closed figure formed by three intersecting lines is called a triangle.\n(‘Tri’ means ‘three’). A triangle has three sides, three angles and three vertices. For\nexample, in triangle ABC, denoted as ∆ ABC (see Fig. 7.1); AB, BC, CA  are the three\nsides, ∠ A, ∠ B, ∠ C are the three angles and A, B, C are three vertices.\nIn Chapter 6, you have als"
+  },
+  "keywords": [
+    "Reprint",
+    "Given",
+    "Congruence",
+    "Repeat",
+    "Example",
+    "Solution",
+    "Common",
+    "Observe",
+    "Therefore",
+    "Theor",
+    "Angles",
+    "Triangles",
+    "Perform",
+    "Construct",
+    "Similarly",
+    "Notice",
+    "Criteria",
+    "Consider",
+    "Angle",
+    "Since"
+  ],
+  "images": [
+    {
+      "filename": "page1_img1.png",
+      "page": 1
+    },
+    {
+      "filename": "page1_img2.png",
+      "page": 1
+    },
+    {
+      "filename": "page1_img3.png",
+      "page": 1
+    },
+    {
+      "filename": "page2_img1.png",
+      "page": 2
+    },
+    {
+      "filename": "page2_img2.png",
+      "page": 2
+    }
+  ],
+  "image_count": 5
+}
