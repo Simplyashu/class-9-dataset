@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "subject": "mathematics",
+    "chapter_number": 14,
+    "chapter_name": "iemh1a2",
+    "source_file": "iemh1a2.pdf",
+    "class": "6"
+  },
+  "content": {
+    "full_text": "\n--- Page 1 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 187\nAPPENDIX 2\nINTRODUCTION TO MA THEMA TICAL  MODELLING\nA2.1 Introduction\nRight from your earlier classes, you have been solving problems related to the\nreal-world around you. For example, you have solved problems in simple interest using\nthe formula for finding it.  The formula (or equation) is a relation between the interest\nand the other three quantities that are related to it, the principal, the rate of interest and\nthe period. This formula is an example of a mathematical model . A mathematical\nmodel is a mathematical relation that describes some real-life situation.\nMathematical models are used to solve many real-life situations like:\n•launching a satellite.\n•predicting the arrival of the monsoon.\n•controlling pollution due to vehicles.\n•reducing traffic jams in big cities.\nIn this chapter , we will introduce you to the process of constructing mathematical\nmodels, which is called mathematical modelling . In mathematical modelling, we\ntake a real-world problem and write it as an equivalent mathematical problem. We\nthen solve the mathematical problem, and interpret its solution in terms of the\nreal-world problem. After this we see to what extent the solution is valid in the context\nof the real-world problem. So, the stages involved in mathematical modelling are\nformulation, solution, interpretation and validation.\nWe will start by looking at the process you undertake when solving word problems,\nin Section A2.2.  Here, we will discuss some word problems that are similar to the\nones you have solved in your earlier classes. We will see later that the steps that are\nused for solving word problems are some of those used in mathematical modelling\nalso.\nReprint 2025-26\n\n--- Page 2 ---\n188 MATHEMA TICS\nIn the next section, that is Section A2.3, we will discuss some simple models.\nIn Section A2.4, we will discuss the overall process of modelling, its advantages\nand some of its limitations.\nA2.2 Review of  Word Pr oblems\nIn this section, we will discuss some word problems that are similar to the ones that\nyou have solved in your earlier classes.  Let us start with a problem on direct variation.\nExample 1 :  I travelled 432 kilometres on 48 litres of petrol in my car . I have to go by\nmy car to a place which is 180 km away . How much petrol do I need?\nSolution :  We will list the steps involved in solving the problem.\nStep 1 :  Formulation :  You know that farther we travel, the more petrol we\nrequire, that is, the amount of petrol we need varies directly with the distance we\ntravel.\nPetrol needed for travelling 432 km = 48 litres\nPetrol needed for travelling 180 km = ?\nMathematical Description : Let\nx =distance I travel\ny =petrol I need\ny varies directly with x.\nSo, y =kx, where k is a constant.\nI can travel 432 kilometres with 48 litres of petrol.\nSo, y =48, x = 432.\nTherefore, k =48 1\n432 9y\nx= = .\nSince y =kx,\ntherefore, y =1\n9x (1)\nEquation or Formula (1) describes the relationship between the petrol needed and\ndistance travelled.\nStep 2 :  Solution : We want to find the petrol we need to travel 180 kilometres;\nso, we have to find the value of y when x = 180.  Putting x = 180 in  (1), we have\nReprint 2025-26\n\n--- Page 3 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 189\ny =180209= .\nStep 3 :  Interpretation : Since y = 20, we need 20 litres of petrol to travel\n180 kilometres.\nDid it occur to you that you may not be able to use the formula (1) in all situations?\nFor example, suppose the 432 kilometres route is through mountains and the 180\nkilometres route is through flat plains. The car will use up petrol at a faster rate in the\nfirst route, so we cannot use the same rate for the 180 kilometres route, where the\npetrol will be used up at a slower rate. So the formula works if all such conditions that\naffect the rate at which petrol is used are the same in both the trips. Or , if there is a\ndifference in conditions, the effect of the difference on the amount of petrol needed\nfor the car should be very small. The petrol used will vary directly with the distance\ntravelled only in such a situation. We assumed this while solving the problem.\nExample 2 :  Suppose Sudhir has invested ` 15,000 at 8% simple interest per year .\nWith the return from the investment, he wants to buy a washing machine that costs\n` 19,000. For what period should he invest ` 15,000 so that he has enough money to\nbuy a washing machine?\nSolution :  Step 1 :  Formulation of the pr oblem : Here, we know the principal and\nthe rate of interest. The interest is the amount Sudhir needs in addition to 15,000 to buy\nthe washing machine.  We have to find the number of years.\nMathematical Description :  The formula for simple interest is I = P\n100nr,\nwhere P =Principal,\nn =Number of years,\nr % = Rate of interest\nI =Interest earned\nHere, the principal = ` 15,000\nThe money required by Sudhir for buying a washing machine = ` 19,000\nSo, the interest to be earned =` (19,000 – 15,000)\n=` 4,000\nThe number of years for which ` 15,000 is deposited = n\nThe interest on ` 15,000 for n years at the rate of 8% = I\nThen, I =15000 × × 8\n100n\nReprint 2025-26\n\n--- Page 4 ---\n190 MATHEMA TICS\nSo, I =1200 n (1)\ngives the relationship between the number of years and interest, if ` 15000 is invested\nat an annual interest rate of 8%.\nWe have to find the period in which the interest earned is ` 4000.\nPutting I = 4000 in (1), we have\n4000 = 1200 n (2)\nStep 2 :  Solution of the pr oblem : Solving Equation (2), we get\nn =4000 131200 3= ⋅\nStep 3 :  Interpr etation :  Since n = 133 and one third of a year is 4 months,\nSudhir can buy a washing machine after 3 years and 4 months.\nCan you guess the assumptions that you have to make in the example above? We\nhave to assume that the interest rate remains the same for the period for which we\ncalculate the interest. Otherwise, the formula I = P\n100nr will not be valid. We have also\nassumed that the price of the washing machine does not increase by the time Sudhir\nhas gathered the money .\nExample 3 :  A motorboat goes upstream on a river and covers the distance between\ntwo towns on the riverbank in six hours. It covers this distance downstream in five\nhours. If the speed of the stream is 2 km/h, find the speed of the boat in still water .\nSolution :  Step 1 :  Formulation : We know the speed of the river and the time taken\nto cover the distance between two places.  We have to find the speed of the boat in\nstill water .\nMathematical Description :  Let us write x for the speed of the boat, t for the time\ntaken and y for the distance travelled.  Then\ny =tx (1)\nLet d be the distance between the two places.\nWhile going upstream, the actual speed of the boat\n= speed of the boat – speed of the river ,\nbecause the boat is travelling against the flow of the river .\nSo, the speed of the boat upstream = ( x – 2) km/h\nIt takes 6 hours to cover the distance between the towns upstream. So, from (1),\nwe get d =6(x – 2) (2)\nReprint 2025-26\n\n--- Page 5 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 191\nWhen going downstream, the speed of the river has to be added  to the speed of the\nboat.\nSo, the speed of the boat downstream = ( x + 2) km/h\nThe boat takes 5 hours to cover the same distance downstream.  So,\nd =5(x + 2) (3)\nFrom (2) and (3), we have\n5(x + 2) = 6(x –2 ) (4)\nStep 2 :  Finding the Solution\nSolving for  x in Equation (4), we get x = 22.\nStep 3 :  Interpr etation\nSince x = 22, therefore the speed of the motorboat in still water is 22 km/h.\nIn the example above, we know that the speed of the river is not the same\neverywhere. It flows slowly near the shore and faster at the middle. The boat starts at\nthe shore and moves to the middle of the river . When it is close to the destination, it will\nslow down and move closer to the shore. So, there is a small difference between the\nspeed of the boat at the middle and the speed at the shore. Since it will be close to the\nshore for a small amount of time, this difference in speed of the river will affect the\nspeed only for a small period. So, we can ignore this difference in the speed of the\nriver. We can also ignore the small variations in speed of the boat. Also, apart from the\nspeed of the river , the friction between the water and surface of the boat will also\naffect the actual speed of the boat. We also assume that this ef fect is very small.\nSo, we have assumed that\n1.The speed of the river and the boat remains constant all the time.\n2.The effect of friction between the boat and water and the friction due to air is\nnegligible.\nWe have found the speed of the boat in still water with the assumptions\n(hypotheses ) above.\nAs we have seen in the wor d problems above, ther e are 3 steps in solving a\nword problem. These ar e\n1.Formulation : We analyse the problem and see which factors have a major\ninfluence on the solution to the problem. These are the relevant  factors .  In\nour first example, the relevant factors are the distance travelled and petrol\nconsumed. We ignored the other factors like the nature of the route, driving\nspeed, etc. Otherwise, the problem would have been more difficult to solve.\nThe factors that we ignore are the irrelevant factors .\nReprint 2025-26\n\n--- Page 6 ---\n192 MATHEMA TICS\nWe then describe the problem mathematically , in the form of one or more\nmathematical equations.\n2.Solution :  We find the solution  of the problem by solving the mathematical\nequations obtained in Step 1 using some suitable method.\n3.Interpr etation :  We see what the solution obtained in Step 2 means in the\ncontext of the original word problem.\nHere are some exercises for you. Y\nou may like to check your understanding of\nthe steps involved in solving word problems by carrying out the three steps above for\nthe following problems.\nEXERCISE A 2.1\nIn each of the following problems, clearly state what the relevant and irrelevant factors are\nwhile going through Steps 1, 2 and 3 given above.\n1.Suppose a company needs a computer for some period of time.  The company can\neither hire a computer for ` 2,000 per month or buy one for ` 25,000.  If the company\nhas to use the computer for a long period, the company will pay such a high rent, that\nbuying a computer will be cheaper . On the other hand, if the company has to use the\ncomputer for say , just one month, then hiring a computer will be cheaper . Find the\nnumber of months beyond which it will be cheaper to buy a computer .\n2.Suppose a car starts from a place A and travels at a speed of 40 km/h towards another\nplace B.  At the same instance, another car starts from B and  travels towards A at a\nspeed of 30 km/h.  If the distance between A and B is 100 km, after how much time will\nthe cars meet?\n3.The moon is about 3,84,000 km from the earth, and its path around the earth is nearly\ncircular . Find the speed at which it orbits the earth, assuming that it orbits the earth in\n24 hours. (Use π = 3.14)\n4.A family pays ` 1000 for electricity on an average in those months in which it does not\nuse a water heater .  In the months in which it uses a water heater , the average electricity\nbill is ` 1240. The cost of using the water heater is ` 8.00 per hour . Find the average\nnumber of hours the water heater is used in a day .\nA2.3 Some Mathematical Models\nSo far , nothing was new in our discussion. In this section, we are going to add another\nstep to the three steps that we have discussed earlier . This step is called validation.\nWhat does validation mean? Let us see. In a real-life situation, we cannot accept a\nmodel that gives us  an answer that does not match the reality . This process of checking\nthe answer against reality , and modifying the mathematical description if necessary , is\nReprint 2025-26\n\n--- Page 7 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 193\ncalled validation .  This is a very important step in modelling. We will introduce you to\nthis step in this section.\nFirst, let us look at an example, where we do not have to modify our model after\nvalidation.\nExample 4 :   Suppose you have a room of length 6 m and breadth 5 m. You want to\ncover the floor of the room with square mosaic tiles of side 30 cm.  How many tiles\nwill you need? Solve this by constructing a mathematical model.\nSolution :  Formulation : We have to consider the area of the room and the area of\na tile for solving the problem. The side of the tile is 0.3 m. Since the length is 6 m, we\ncan  fit in 6\n0.3 = 20 tiles along the length of the room in one row (see Fig. A2.1.).\nFig. A2.1\nSince the breadth of the room is 5 metres, we have 5\n0.3 = 16.67.  So, we can fit in\n16 tiles in a column.  Since 16 × 0.3 = 4.8, 5 – 4.8 = 0.2 metres along the breadth will\nnot be covered by tiles. This part will have to be covered by cutting the other tiles. The\nbreadth of the floor left uncovered, 0.2 metres, is more than half the length of a tile,\nwhich is 0.3 m. So we cannot break a tile into two equal halves and use both the halves\nto cover the remaining portion.\nMathematical Description :  We have:\nTotal number of tiles required = (Number of tiles along the length\n× Number of tiles along the breadth) + Number of tiles along the uncovered area\n(1)\nArea covered by\nfull tiles\n4.8 m\nReprint 2025-26\n\n--- Page 8 ---\n194 MATHEMA TICS\nSolution : As we said above, the number of tiles along the length is 20 and the\nnumber of tiles along the breadth is 16. We need 20 more tiles for the last row . Substituting\nthese values in (1), we get (20 × 16) + 20 = 320 + 20 = 340.\nInterpr etation : We need 340 tiles to cover the floor .\nValidation : In real-life, your mason may ask you to buy some extra tiles to\nreplace those that get damaged while cutting them to size. This number will of course\ndepend upon the skill of your mason! But, we need not modify Equation (1) for this.\nThis gives you a rough idea of the number of tiles required. So, we can stop here.\nLet us now look at another situation now .\nExample 5 :  In the year 2000, 191 member countries of the U.N. signed a declaration.\nIn this declaration, the countries agreed to achieve certain development goals by the\nyear 2015.  These are called the millennium development goals . One of these goals\nis to promote gender equality . One indicator for deciding whether this goal has been\nachieved is the ratio of girls to boys in primary , secondary and tertiary education.\nIndia, as a signatory to the declaration, is committed to improve this ratio. The data for\nthe percentage of girls who are enrolled in primary schools is given in Table A2.1.\nTable A2.1\nYear Enrolment\n(in %)\n1991-92 41.9\n1992-93 42.6\n1993-94 42.7\n1994-95 42.9\n1995-96 43.1\n1996-97 43.2\n1997-98 43.5\n1998-99 43.5\n1999-2000 43.6*\n2000-01 43.7*\n2001-02 44.1*\nSource : Educational statistics, webpage of  Department of Education, GOI.\n* indicates that the data is provisional.\nReprint 2025-26\n\n--- Page 9 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 195\nUsing this data, mathematically describe the rate at which the proportion of girls enrolled\nin primary schools grew . Also, estimate the year by which the enrolment of girls will\nreach 50%.\nSolution :  Let us first convert the problem into a mathematical problem.\nStep 1 :  Formulation :  Table A2.1 gives the enrolment for the years 1991-92,\n1992-93, etc.  Since the students join at the beginning of an academic year , we can\ntake the years as 1991, 1992, etc. Let us assume that the percentage of girls who join\nprimary schools will continue to grow at the same rate as the rate in Table A2.1. So,\nthe number of years is important, not the specific years. (T o give a similar situation,\nwhen we find the simple interest for , say, ` 1500 at the rate of 8% for three years, it\ndoes not matter whether the three-year period is from 1999 to 2002 or from 2001 to\n2004. What is important is the interest rate in the years being considered).  Here also,\nwe will see how the enrolment grows after 1991 by comparing the number of years\nthat has passed after 1991 and the enrolment.  Let us take 1991 as the 0th year , and\nwrite 1 for 1992 since 1 year has passed in 1992 after 1991.  Similarly , we will write 2\nfor 1993, 3 for 1994, etc. So, Table A2.1 will now look like as Table A2.2.\nTable A2.2\nYear Enrolment\n(in %)\n0 41.9\n1 42.6\n2 42.7\n3 42.9\n4 43.1\n5 43.2\n6 43.5\n7 43.5\n8 43.6\n9 43.7\n10 44.1\nReprint 2025-26\n\n--- Page 10 ---\n196 MATHEMA TICS\nThe increase in enrolment is given in the following table :\nTable A2.3\nYear Enrolment Increase\n(in %)\n0 41.9 0\n1 42.6 0.7\n2 42.7 0.1\n3 42.9 0.2\n4 43.1 0.2\n5 43.2 0.1\n6 43.5 0.3\n7 43.5 0\n8 43.6 0.1\n9 43.7 0.1\n10 44.1 0.4\nAt the end of the one-year period from 1991 to 1992, the enrolment has increased\nby 0.7% from 41.9% to 42.6%. At the end of the second year , this has increased by\n0.1%, from 42.6% to 42.7%. From the table above, we cannot find a definite relationship\nbetween the number of years and percentage. But the increase is fairly steady . Only\nin the first year and in the 10 th year there is a jump. The mean of the values is\n0.7 0.1 0.2 0.2 0.1 0.3 0 0.1 0.1 0.4\n10+ + + + + + + + + = 0.22\nLet us assume that the enrolment steadily increases at the rate of 0.22 per cent.\nMathematical Description : We have assumed that the enrolment increases\nsteadily at the rate of 0.22% per year .\nSo, the Enrolment Percentage (EP) in the first year = 41.9 + 0.22\nEP in the second year = 41.9 + 0.22 + 0.22 = 41.9 + 2 × 0.22\nEP in the third year = 41.9 + 0.22 + 0.22 + 0.22 = 41.9 + 3 × 0.22\nSo, the enrolment percentage in the nth year = 41.9 + 0.22 n, for n > 1. (1)\nReprint 2025-26\n\n--- Page 11 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 197\nNow , we also have to find the number of years by which the enrolment will reach\n50%. So, we have to find the value of n in the equation or formula\n50 = 41.9 + 0.22 n (2)\nStep 2 :  Solution : Solving (2) for n, we get\nn =50 – 41.9 8.136.80.22 0.22= =\nStep 3 :  Interpr etation : Since the number of years is an integral value, we will\ntake the next higher integer , 37.  So, the enrolment percentage will reach 50% in\n1991 + 37 = 2028.\nIn a word problem, we generally stop here. But, since we are dealing with a real-\nlife situation, we have to see to what extent this value matches the real situation.\nStep 4 :  Validation:  Let us check if Formula (2) is in agreement with the reality .\nLet us find the values for the years we already know , using Formula (2), and compare\nit with the known values by finding the dif ference. The values are given in Table A2.4.\nTable A2.4\nYear Enrolment Values given by (2) Difference\n(in %) (in %) (in %)\n0 41.9 41.90 0\n1 42.6 42.12 0.48\n2 42.7 42.34 0.36\n3 42.9 42.56 0.34\n4 43.1 42.78 0.32\n5 43.2 43.00 0.20\n6 43.5 43.22 0.28\n7 43.5 43.44 0.06\n8 43.6 43.66 –0.06\n9 43.7 43.88 –0.18\n10 44.1 44.10 0.00\nAs you can see, some of the values given by Formula (2) are less than the actual\nvalues by about 0.3% or even by 0.5%. This can give rise to a difference of about 3 to\n5 years since the increase per year is actually 1% to 2%. We may decide that this\nReprint 2025-26\n\n--- Page 12 ---\n198 MATHEMA TICS\nmuch of a difference is acceptable and stop here. In this case, (2) is our mathematical\nmodel.\nSuppose we decide that this error is quite large, and we have to improve this\nmodel.  Then we have to go back to Step 1, the formulation, and change Equation (2).\nLet us do so.\nStep 1 :  Reformulation : We still assume that the values increase steadily by\n0.22%, but we will now introduce a correction factor to reduce the error . For this, we\nfind the mean of all the errors. This is\n0 0.48 0.36 0.34 0.32 0.2 0.28 0.06 – 0.06 – 0.18 0\n10+ + + + + + + + = 0.18\nWe take the mean of the errors, and correct our formula by this value.\nRevised Mathematical Description :  Let us now add the mean of the errors to\nour formula for enrolment percentage given in (2). So, our corrected formula is:\nEnrolment percentage in the nth year = 41.9 + 0.22 n + 0.18 = 42.08 + 0.22 n, for\nn > 1 (3)\nWe will also modify Equation (2) appropriately . The new equation for n is:\n50 = 42.08 + 0.22 n  (4)\nStep 2 :  Alter ed Solution : Solving Equation (4) for n, we get\nn =50 – 42.08 7.92360.22 0.22= =\nStep 3 :  Interpr etation: Since n = 36, the enrolment of girls in primary schools\nwill reach 50% in the year 1991 + 36 = 2027.\nStep 4 :  Validation:  Once again, let us compare the values got by using Formula\n(4) with the actual values. Table A2.5 gives the comparison.\nReprint 2025-26\n\n--- Page 13 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 199\nTable A2.5\nYear Enrolment Values Difference Values Difference\n(in %) given between given between\nby (2) values by (4) values\n0 41.9 41.90 0 41.9 0\n1 42.6 42.12 0.48 42.3 0.3\n2 42.7 42.34 0.36 42.52 0.18\n3 42.9 42.56 0.34 42.74 0.16\n4 43.1 42.78 0.32 42.96 0.14\n5 43.2 43.00 0.2 43.18 0.02\n6 43.5 43.22 0.28 43.4 0.1\n7 43.5 43.44 0.06 43.62 – 0.12\n8 43.6 43.66 – 0.06 43.84 – 0.24\n9 43.7 43.88 – 0.18 44.06 – 0.36\n10 44.1 44.10 0 44.28 – 0.18\nAs you can see, many of the values that (4) gives are closer to the actual value\nthan the values that (2) gives. The mean of the errors is 0 in this case.\nWe will stop our process here. So, Equation (4) is our mathematical description\nthat gives a mathematical relationship between years and the percentage of enrolment\nof girls of the total enrolment. We have constructed a mathematical model that describes\nthe growth.\nThe process that we have followed in the situation above is called\nmathematical modelling .\nWe have tried to construct a mathematical model with the mathematical tools that\nwe already have. There are better mathematical tools for making predictions from the\ndata we have. But, they are beyond the scope of this course. Our aim in constructing\nthis model is to explain the process of modelling to you, not to make accurate predictions\nat this stage.\nYou may now like to model some real-life situations to check your understanding\nof our discussion so far . Here is an Exercise for you to try .\nReprint 2025-26\n\n--- Page 14 ---\n200 MATHEMA TICS\nEXERCISE A2.2\n1.We have given the timings of the gold medalists in the 400-metre race from the time the\nevent was included in the Olympics, in the table below . Construct a mathematical model\nrelating the years and timings. Use it to estimate the timing in the next Olympics.\nTable  A2.6\nYear Timing (in seconds)\n1964 52.01\n1968 52.03\n1972 51.08\n1976 49.28\n1980 48.88\n1984 48.83\n1988 48.65\n1992 48.83\n1996 48.25\n2000 49.11\n2004 49.41\nA2.4  The Pr ocess of Modelling, its Advantages and Limitations\nLet us now conclude our discussion by drawing out aspects of mathematical modelling\nthat show up in the examples we have discussed. With the background of the earlier\nsections, we are now in a position to give a brief overview of the steps involved in\nmodelling.\nStep 1 :  Formulation : You would have noticed the dif ference between the\nformulation part of Example 1 in Section A2.2 and the formulation part of the model\nwe discussed in A2.3. In Example 1, all the information is in a readily usable form. But,\nin the model given in A2.3 this is not so. Further , it took us some time to find a\nmathematical description. We tested our first formula, but found that it was not as\ngood as the second one we got. This is usually true in general, i.e. when trying to\nmodel real-life situations; the first model usually needs to be revised. When we are\nsolving a real-life problem, formulation can require a lot of time. For example, Newton’ s\nthree laws of motion, which are mathematical descriptions of motion, are simple enough\nto state. But, Newton arrived at these laws after studying a large amount of data and\nthe work the scientists before him had done.\nReprint 2025-26\n\n--- Page 15 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 201\nFormulation involves the following three steps :\n(i)Stating the pr oblem : Often, the problem is stated vaguely . For example,\nthe broad goal is to ensure that the enrolment of boys and girls are equal. This\nmay mean that 50% of the total number of boys of the school-going age and\n50% of the girls of the school-going age should be enrolled.  The other way is\nto ensure that 50% of the school-going children are girls.  In our problem, we\nhave used the second approach.\n(ii)Identifying relevant factors :  Decide which quantities and relationships\nare important for our problem and which are unimportant and can be neglected.\nFor example, in our problem regarding primary schools enrolment, the\npercentage of girls enrolled in the previous year can influence the number of\ngirls enrolled this year .  This is because, as more and more girls enrol in\nschools, many more parents will feel they also have to put their daughters in\nschools. But, we have ignored this factor because this may become important\nonly after the enrolment crosses a certain percentage.  Also, adding this factor\nmay make our model more complicated.\n(iii)Mathematical Description :  Now suppose we are clear about what the\nproblem is and what aspects of it are more relevant than the others. Then we\nhave to find a relationship between the aspects involved in the form of an\nequation, a graph or any other suitable mathematical description. If it is an\nequation, then every important aspect should be represented by a variable in\nour mathematical equation.\nStep 2 :  Finding the solution : The mathematical formulation does not give the\nsolution. We have to solve this mathematical equivalent of the problem. This is where\nyour mathematical knowledge comes in useful.\nStep 3 :  Interpr etating the solution : The mathematical solution is some value\nor values of the variables in the model. We have to go back to the real-life problem and\nsee what these values mean in the problem.\nStep 4 :  Validating the solution :  As we saw in A2.3, after finding the solution\nwe will have to check whether the solution matches the reality . If it matches, then the\nmathematical model is acceptable. If the mathematical solution does not match, we go\nback to the formulation step  again and try to improve our model.\nThis step in the process is one major difference between solving word problems\nand mathematical modelling. This is one of the most important step in modelling that is\nmissing in word problems. Of course, it is possible that in some real-life situations, we\ndo not need to validate our answer because the problem is simple and we get the\ncorrect solution right away . This was so in the first model we considered in A2.3.\nReprint 2025-26\n\n--- Page 16 ---\n202 MATHEMA TICS\nWe have given a summary of the order in which the steps in mathematical modelling\nare carried out in Fig. A2.2 below .  Movement from the validation step to the formulation\nstep is shown using a dotted arr ow. This is because it may not be necessary to carry\nout this step again.\nFig.A2.2\nNow that you have studied the stages involved in mathematical modelling, let us\ndiscuss some of its aspects.\nThe aim of mathematical modelling is to get some useful information about a real-\nworld problem by converting it into a mathematical problem. This is especially useful\nwhen it is not possible or very expensive to get information by other means such as\ndirect observation or by conducting experiments.\nYou may also wonder why we should undertake mathematical modelling? Let us\nlook at some advantages of modelling . Suppose we want to study the corrosive\neffect of the dischar ge of the Mathura refinery on the Taj Mahal. We would not like to\ncarry out experiments on the Taj Mahal directly since it may not be safe to do so. Of\ncourse, we can use a scaled down physical model, but we may need special facilities\nfor this, which may be expensive. Here is where mathematical modelling can be of\ngreat use.\nAgain, suppose we want to know how many primary schools we will need after 5\nyears. Then, we can only solve this problem by using a mathematical model. Similarly ,\nit is only through modelling that scientists have been able to explain the existence of so\nmany phenomena.\nYou saw in Section A2.3, that we could have tried to improve the answer in the\nsecond example with better methods. But we stopped because we do not have the\nmathematical tools.  This can happen in real-life also. Often, we have to be satisfied\nwith very approximate answers, because mathematical tools are not available.  For\nexample, the model equations used in modelling weather are so complex that\nmathematical tools to find exact solutions are not available. Formulation of the \nproblem Solution of the \nproblem \nInterpretation of the \nsolution Checking/validating \nthe solution \nReprint 2025-26\n\n--- Page 17 ---\nINTRODUCTION  TO MATHEMA TICAL  MODELLING 203\nYou may wonder to what extent we should try to improve our model. Usually , to\nimprove it, we need to take into account more factors. When we do this, we add more\nvariables to our mathematical equations. We may then have a very complicated model\nthat is dif ficult to use. A model must be simple enough to use. A good model balances\ntwo factors:\n1.Accuracy , i.e., how close it is to reality .\n2.Ease of use.\nFor example, Newton’ s laws of motion are very simple, but powerful enough to\nmodel many physical situations.\nSo, is mathematical modelling the answer to all our problems? Not quite! It has its\nlimitations.\nThus, we should keep in mind that a model is only a simplification  of a real-\nworld problem, and the two are not the same. It is something like the difference\nbetween a map that gives the physical features of a country , and the country itself. We\ncan find the height of a place above the sea level from this map, but we cannot find the\ncharacteristics of the people from it. So, we should use a model only for the purpose it\nis supposed to serve, remembering all the factors we have neglected while constructing\nit. We should apply the model only within the limits where it is applicable. In the later\nclasses, we shall discuss this aspect a little more.\nEXERCISE A2.3\n1.How are the solving of word problems that you come across in textbooks different\nfrom the process of mathematical modelling?\n2.Suppose you want to minimise the waiting time of vehicles at a traffic junction of four\nroads. Which of these factors are important and which are not?\n(i)Price of petrol.\n(ii)The rate at which the vehicles arrive in the four different roads.\n(iii)The proportion of slow-moving vehicles like cycles and rickshaws and fast moving\nvehicles like cars and motorcycles.\nA2.5  Summary\nIn this Appendix, you have studied the following points :\n1.The steps involved in solving word problems.\n2.Construction of some mathematical models.\nReprint 2025-26\n\n--- Page 18 ---\n204 MATHEMA TICS\n3.The steps involved in mathematical modelling given in the box below .\n1.Formulation :\n(i)Stating the question\n(ii)Identifying the relevant factors\n(iii)Mathematical description\n2.Finding the solution.\n3.Interpretation of the solution in the context of the real-world\nproblem.\n4.Checking/validating to what extent the model is a good\nrepresentation of the problem being studied.\n4.The aims, advantages and limitations of mathematical modelling.\nReprint 2025-26\n",
+    "total_characters": 31018,
+    "total_pages": 0
+  },
+  "images": [
+    {
+      "filename": "page1_img1.png",
+      "page": 1
+    },
+    {
+      "filename": "page1_img2.png",
+      "page": 1
+    },
+    {
+      "filename": "page2_img1.png",
+      "page": 2
+    },
+    {
+      "filename": "page2_img2.png",
+      "page": 2
+    },
+    {
+      "filename": "page3_img1.png",
+      "page": 3
+    },
+    {
+      "filename": "page3_img2.png",
+      "page": 3
+    },
+    {
+      "filename": "page4_img1.png",
+      "page": 4
+    },
+    {
+      "filename": "page4_img2.png",
+      "page": 4
+    },
+    {
+      "filename": "page5_img1.png",
+      "page": 5
+    },
+    {
+      "filename": "page5_img2.png",
+      "page": 5
+    },
+    {
+      "filename": "page6_img1.png",
+      "page": 6
+    },
+    {
+      "filename": "page6_img2.png",
+      "page": 6
+    },
+    {
+      "filename": "page7_img1.png",
+      "page": 7
+    },
+    {
+      "filename": "page7_img2.png",
+      "page": 7
+    },
+    {
+      "filename": "page7_img3.png",
+      "page": 7
+    },
+    {
+      "filename": "page8_img1.png",
+      "page": 8
+    },
+    {
+      "filename": "page8_img2.png",
+      "page": 8
+    },
+    {
+      "filename": "page9_img1.png",
+      "page": 9
+    },
+    {
+      "filename": "page9_img2.png",
+      "page": 9
+    },
+    {
+      "filename": "page10_img1.png",
+      "page": 10
+    },
+    {
+      "filename": "page10_img2.png",
+      "page": 10
+    },
+    {
+      "filename": "page11_img1.png",
+      "page": 11
+    },
+    {
+      "filename": "page11_img2.png",
+      "page": 11
+    },
+    {
+      "filename": "page12_img1.png",
+      "page": 12
+    },
+    {
+      "filename": "page12_img2.png",
+      "page": 12
+    },
+    {
+      "filename": "page13_img1.png",
+      "page": 13
+    },
+    {
+      "filename": "page13_img2.png",
+      "page": 13
+    },
+    {
+      "filename": "page14_img1.png",
+      "page": 14
+    },
+    {
+      "filename": "page14_img2.png",
+      "page": 14
+    },
+    {
+      "filename": "page15_img1.png",
+      "page": 15
+    },
+    {
+      "filename": "page15_img2.png",
+      "page": 15
+    },
+    {
+      "filename": "page16_img1.png",
+      "page": 16
+    },
+    {
+      "filename": "page16_img2.png",
+      "page": 16
+    },
+    {
+      "filename": "page17_img1.png",
+      "page": 17
+    },
+    {
+      "filename": "page17_img2.png",
+      "page": 17
+    },
+    {
+      "filename": "page18_img1.png",
+      "page": 18
+    },
+    {
+      "filename": "page18_img2.png",
+      "page": 18
+    }
+  ],
+  "image_count": 37,
+  "keywords": [
+    "Reprint",
+    "Solution",
+    "Table",
+    "Since",
+    "Mathematical",
+    "Formulation",
+    "Equation",
+    "Example",
+    "Description",
+    "Suppose",
+    "Interpr",
+    "Enrolment",
+    "Section",
+    "Formula",
+    "Sudhir",
+    "Number",
+    "Solving",
+    "Interpretation",
+    "Finding",
+    "These"
+  ]
+}
